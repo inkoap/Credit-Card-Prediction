@@ -1,1 +1,6 @@
 # Credit-Card-Prediction
+
+Credit Card Score is a common risk control method in the financial industry. It uses personal information and data provided by credit card applicants to predict the likelihood of default and credit card loans in the future. Banks can decide whether to issue a credit card to an applicant. A credit score can objectively measure the level of risk.
+Build a machine learning model to predict whether an applicant is a 'good' or 'bad' client. Unlike other tasks, the definition of 'good' or 'bad' is not provided. You need to use various techniques, such as vintage analysis, to create your labels. Additionally, data imbalance is a significant issue in this task.
+Based on the model comparison results, the Decision Tree model performed the best. The Decision Tree model had the highest accuracy compared to other models and the lowest error rate.
+After performing hyperparameter tuning using GridSearchCV, the model's performance significantly improved. The tuned model showed a drastic increase in performance compared to the initial model. This demonstrates the effectiveness of optimizing the model's hyperparameters. The Decision Tree model, with the optimized hyperparameters, outperformed other models in terms of accuracy and error rate. Therefore, it is the preferred model for predicting credit card client classification.
