@@ -1,4 +1,4 @@
-# Credit-Card-Prediction
+# Credit Card Prediction
 
 Credit Card Score is a common risk control method in the financial industry. It uses personal information and data provided by credit card applicants to predict the likelihood of default and credit card loans in the future. Banks can decide whether to issue a credit card to an applicant. A credit score can objectively measure the level of risk.
 Build a machine learning model to predict whether an applicant is a 'good' or 'bad' client. Unlike other tasks, the definition of 'good' or 'bad' is not provided. You need to use various techniques, such as vintage analysis, to create your labels. Additionally, data imbalance is a significant issue in this task.
